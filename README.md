@@ -1,4 +1,4 @@
-# Team 8 Mist 4610 Group Project 1
+# Team 8 Mist 4610 Group Project 2
 
 ## Team Name: 
 select * from MIST4610 where grade = A; 
