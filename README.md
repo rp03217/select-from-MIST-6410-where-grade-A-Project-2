@@ -37,7 +37,7 @@ A player plays in many games and a game has many players involved. The weak enti
 
 A player can also now have many NIL deals with several companies. One company (stored in the Sponsor table) also has the ability to sponsor many players. A sponsor has a company name and a unique id. To link the many to many relationship between Sponsor and player there is the NIL table. The NIL table stores the id of the deal as well as the agreed upon dollar amount for the contract between a company and a player.
 
-Our data model stores a range of data regarding college football which could be useful for a school administration, third party company interested in sponsoring athletes, or the everyday college football fan!
+Our data model stores a range of data regarding college football over several seasons which could be useful for a school administration, third party company interested in sponsoring athletes, or the everyday college football fan!
 
 
 ![Project 2 Diagram final](https://github.com/user-attachments/assets/dd5b17b6-ad1c-4e2d-9c5f-850c42edb2bd)
