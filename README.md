@@ -39,7 +39,6 @@ Our data model stores a range of data regarding college football which could be 
 
 
 
-![Project Diagram](https://github.com/user-attachments/assets/e39815d3-a0fe-4377-876d-d4131b634156)
 
 ## Data Dictionary:
 ![Screenshot (72)](https://github.com/user-attachments/assets/82634b2b-0daf-4d5b-b2d9-45b62b11f1eb)
