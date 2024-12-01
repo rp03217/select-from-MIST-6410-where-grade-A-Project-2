@@ -41,14 +41,22 @@ Our data model stores a range of data regarding college football which could be 
 
 
 
-
 ## Data Dictionary:
+
+![Screenshot (103)](https://github.com/user-attachments/assets/0ce84d8d-625e-4712-916c-f90de77ca135)
+
+![Screenshot (104)](https://github.com/user-attachments/assets/fd019cd5-265b-4c11-a3d6-39d4b6c2cb68)
+
+![Screenshot (106)](https://github.com/user-attachments/assets/ca29be1c-410a-49cb-89ae-84231bac9420)
+
+![Screenshot (107)](https://github.com/user-attachments/assets/15d5704a-e84f-43e7-97db-703c545895c2)
+
 
 
 
 ## Query Type Matrix:
 
-![Screen Shot 2024-10-13 at 8 29 41 PM](https://github.com/user-attachments/assets/cf262f29-f47f-43a4-8608-b380128479d1)
+
 
 
 
