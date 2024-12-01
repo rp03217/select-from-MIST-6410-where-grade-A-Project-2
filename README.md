@@ -66,6 +66,19 @@ Our data model stores a range of data regarding college football which could be 
 ![Screenshot 2024-12-01 162828](https://github.com/user-attachments/assets/3d7c46c6-9fd0-4384-8afb-d1059401d28a)
 
 
+![Screenshot 2024-12-01 164142](https://github.com/user-attachments/assets/cabf376c-ccc1-4361-9f36-95d5a9598c90)
+
+
+![Screenshot 2024-12-01 165152](https://github.com/user-attachments/assets/a9d55a3a-5a11-4789-a51f-ed64f2f3b414)
+
+
+![Screenshot 2024-12-01 165928](https://github.com/user-attachments/assets/850ce2bd-d837-4eff-acb1-35afa042e616)
+
+
+![Screenshot 2024-12-01 170604](https://github.com/user-attachments/assets/9a817678-e92f-48b8-b570-c216411d9e80)
+
+
+![Screenshot 2024-12-01 170835](https://github.com/user-attachments/assets/d96867dc-c40b-442b-8149-debe6eb02594)
 
 
 ## Query Type Matrix:
