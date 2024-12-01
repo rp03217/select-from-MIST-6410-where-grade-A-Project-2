@@ -40,6 +40,8 @@ A player can also now have many NIL deals with several companies. One company (s
 Our data model stores a range of data regarding college football which could be useful for a school administration, third party company interested in sponsoring athletes, or the everyday college football fan!
 
 
+![Project 2 Diagram final](https://github.com/user-attachments/assets/dd5b17b6-ad1c-4e2d-9c5f-850c42edb2bd)
+
 
 ## Data Dictionary:
 ![Screenshot (103)](https://github.com/user-attachments/assets/d488680b-b98c-4ab9-80ef-b6e8ca6fea76)
