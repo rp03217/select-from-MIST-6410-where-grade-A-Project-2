@@ -44,17 +44,26 @@ Our data model stores a range of data regarding college football which could be 
 ## Data Dictionary:
 ![Screenshot (103)](https://github.com/user-attachments/assets/d488680b-b98c-4ab9-80ef-b6e8ca6fea76)
 
+
 ![Screenshot (104)](https://github.com/user-attachments/assets/c9c65e87-58d3-4e88-99f1-471eb9c3858d)
+
 
 ![Screenshot (106)](https://github.com/user-attachments/assets/fa905a5c-ec0a-4979-bb74-92e29149c2f5)
 
+
 ![Screenshot (107)](https://github.com/user-attachments/assets/9f9afbae-150d-4f78-9ce8-c9472e533976)
 
+
 ![Screenshot (108)](https://github.com/user-attachments/assets/129d9386-288d-4039-bb36-10a121da0af6)
+
 
 ![Screenshot (111)](https://github.com/user-attachments/assets/e6ebfb92-4a5c-429a-960d-63a1683508e6)
 
 
+![Screenshot (113)](https://github.com/user-attachments/assets/c927be2f-b171-4760-9328-37352f939c3c)
+
+
+![Screenshot 2024-12-01 162828](https://github.com/user-attachments/assets/3d7c46c6-9fd0-4384-8afb-d1059401d28a)
 
 
 
