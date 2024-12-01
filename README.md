@@ -74,7 +74,7 @@ Our data model stores a range of data regarding college football over several se
 ![Screenshot 2024-12-01 165152](https://github.com/user-attachments/assets/a9d55a3a-5a11-4789-a51f-ed64f2f3b414)
 
 
-![Screenshot 2024-12-01 165928](https://github.com/user-attachments/assets/850ce2bd-d837-4eff-acb1-35afa042e616)
+![Screenshot 2024-12-01 172002](https://github.com/user-attachments/assets/043bea59-46cd-4ccf-97c7-148ff0e403a2)
 
 
 ![Screenshot 2024-12-01 170604](https://github.com/user-attachments/assets/9a817678-e92f-48b8-b570-c216411d9e80)
