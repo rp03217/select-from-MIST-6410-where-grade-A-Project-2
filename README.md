@@ -95,7 +95,11 @@ Our data model stores a range of data regarding college football over several se
 
 ## Visualzations:
 
-1. Visualization 1 displays a bar chart of all the teams in the SEC, ACC, and BIG 10 conference that would be eligible to make the college football playoff in season 1 using the 12 team playoff format. The win cutoff for playoff teams this year would be 10 wins. The teams with sufficient win totals are highlighted in blue while the other teams which would not qualify within our database are in a less noticable grey.
+1. Visualization 1 displays a bar chart of the win totals of all the teams in the SEC, ACC, and BIG 10 conference and highlights those that would be eligible to make the college football playoff in season 1 using the 12 team playoff format. The win cutoff for playoff teams this year would be 10 wins. The teams with sufficient win totals are highlighted in blue while the other teams which would not qualify within our database are in a less noticable grey.
+
+![Screenshot 2024-12-02 200854](https://github.com/user-attachments/assets/4afe587a-4cb2-410e-aa3b-d1a1f3199998)
+
+This Visualization could help college football playoff committee members to distinguish which teams are deserving to make the playoff for this year. It also highlights the most competitive conferences. Under this model, we can see that 3 BIG 10 teams would make the playoff to the SEC's 2 and the ACC's 1. This information could also help a highschool player who wants to look at what conference would give them the ebst chance of making the playoff. They may use this model to decide that they want to go play for a BIG 10 school rather than an ACC school because of the competitive advantage.
 
 
 
