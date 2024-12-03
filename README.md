@@ -4,6 +4,7 @@
 select * from MIST4610 where grade = A; 
 
 ## Team Members:
+hello
 
 1. Gus Wilkerson [@augwilk](https://www.github.com/augwilk)
 2. Emma Calleja [@EmmaCalleja](https://github.com/EmmaCalleja)
